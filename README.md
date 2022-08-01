@@ -1,7 +1,7 @@
  <div>
   <p align="center">
   <a href="https://github.com/luanaccampos">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaccampos&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaccampos&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
   
    </p>
 </div>
