@@ -6,8 +6,4 @@
    </p>
 </div>
 
-![Snake animation](https://github.com/luanaccampos/luanaccampos/blob/output/github-contribution-grid-snake.svg)
-
- 
-
  
